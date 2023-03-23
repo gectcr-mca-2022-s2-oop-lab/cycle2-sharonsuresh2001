@@ -34,7 +34,7 @@ public class Search {
 			System.out.println("element not found in this array !");
 		}
 		
-
+   
 	}
 
 }
